@@ -1,0 +1,10 @@
+.select{
+    color: gray;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    width: auto;
+    -webkit-appearance: none;  /* Remove estilo padrão do Chrome */
+    -moz-appearance: none; /* Remove estilo padrão do FireFox */
+    appearance: none; /* Remove estilo padrão do FireFox*/
+}
